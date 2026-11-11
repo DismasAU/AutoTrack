@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: AutoTrack
+## Notes: One button that always holds the tracking spell matching your target's creature type (for Improved Tracking).
+## Author: DismasAU
+## Version: @project-version@
+## SavedVariables: AutoTrackDB
+## X-License: MIT
+## X-Website: https://github.com/DismasAU/AutoTrack
+
+AutoTrack.lua

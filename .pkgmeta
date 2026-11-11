@@ -1,0 +1,5 @@
+package-as: AutoTrack
+
+ignore:
+  - README.md
+  - .github

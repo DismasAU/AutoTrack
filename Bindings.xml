@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="CLICK AutoTrackButton:LeftButton" header="AUTOTRACK" category="ADDONS">
+		-- Casts the tracking spell matching your target
+	</Binding>
+</Bindings>
